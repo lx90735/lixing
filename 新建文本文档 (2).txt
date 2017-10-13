@@ -1,0 +1,2 @@
+http://download.hualala.com/client/HLLSaaSServicePatch(20170820).exe
+C:\Windows\System32\spool\PRINTERS
